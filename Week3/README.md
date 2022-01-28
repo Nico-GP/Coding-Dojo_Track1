@@ -5,5 +5,4 @@
 * Plot export
 * Matplotlib wrappers
 * Interactive plots
-
-###### and more
+* ###### and more
