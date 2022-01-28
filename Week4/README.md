@@ -1,10 +1,10 @@
 ## In this week's chapter **"Statistical Inference"** we laerned about:
 
-* Type I and Type II Erros
-* Confusion Matrix
-* Sensitivity and Specificity
+* Type I and type II errors
+* Confusion matrix
+* Sensitivity and specificity
 * Histograms
-* Box Plots
+* Box plots
 * Sampling
 
 ###### and more
