@@ -5,5 +5,4 @@
 * Tuples
 * Loops
 * Mahematical operations
-
-###### and more
+* ###### and more
