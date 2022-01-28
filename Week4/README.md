@@ -6,5 +6,4 @@
 * Histograms
 * Box plots
 * Sampling
-
-###### and more
+* ###### and more
