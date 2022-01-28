@@ -7,5 +7,4 @@
 * Missing data indentification and filling
 * Data grouping
 * Data organization
-
-###### and more
+* ###### and more
