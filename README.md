@@ -2,9 +2,9 @@
 
 ## In this month's track **"Data Science Fundamentals"** we laerned about:
 
-* Python for Data Science
-* Pandas for Data Manipulation
-* Python for Data Visualization
-* Statistical Inference
+* Week 1: Python for Data Science
+* Week 2: Pandas for Data Manipulation
+* Week 3: Python for Data Visualization
+* Week 4: Statistical Inference
 * ###### and more
 
